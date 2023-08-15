@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/dirgannn/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Pemuda%20yg%20ingin%20menjadi%20ustad;Tidak%20pernah%20menyusahkan%20people;2%2B%20month%20of%20coding is still%20noob;Selalu%20belajar%20hal%20baru&font=Fira%20Code&center=true&width=440&height=45&color=8A2BE2&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Still%20yg%20Learn%20Of%20Coding&font=Fira%20Code&center=true&width=440&height=45&color=8A2BE2&vCenter=true&size=22&pause=1000"></a>
  <div align="center">
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
    </div>
